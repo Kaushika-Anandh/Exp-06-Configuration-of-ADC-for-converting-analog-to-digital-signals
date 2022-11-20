@@ -212,11 +212,14 @@ int main()
  ```
  ## Output:
  ## Before simulation:
- 
+ ![bs](https://user-images.githubusercontent.com/94164580/202905415-3988f636-27c3-46d1-81cf-0f40dd887f2d.png)
  ## After simulation:
- 
-## Tabulations and graph 
+ ![as](https://user-images.githubusercontent.com/94164580/202905414-5afa2f46-4d96-4cd0-911c-903a2eeff436.png)
+ ## Layout:
+ ![lay](https://user-images.githubusercontent.com/94164580/202905410-7eef1a39-b900-41e9-8884-e140a2970173.png)
 
+## Tabulations and graph 
+![tab](https://user-images.githubusercontent.com/94164580/202905411-c84453d3-0755-484e-9597-f15855c95236.png)
 
  ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
 
@@ -229,7 +232,7 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
-Output screen shots :
+
 
 
 
